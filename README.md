@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Antoine - aka SkyfightTV
+## I'm happy to see you !
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKyfightTV&show_icons=true&theme=dark&count_private=true&)
+I am 17 years old and I have been developing for more than 2 years now. I already worked for several servers and for several people . Currently, I provide free minecraft plugins that you will find on my spigotmc.
 
-<!--
-**SKyfightTV/SKyfightTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### If you are a developer, I'm open to all proposals directly on the project via a pull request.
 
-Here are some ideas to get you started:
+###### Skills: JAVA(API Bukkit, JDA, Applications et Android), python (Intelligence Artificielle), lua (FiveM) et C++ (Arduino)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DoigCraft. 
+- 🌱 I’m currently learning assembly language 
+- 📫 How to reach me: SkyfightTV#9535 
+- ⚡ Fun fact: I love to discover new things. 
+
+### Connect with me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SKyfightTV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16952856)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCjzzQNjlBr-AZ5j1A8lMMKw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/u8yzVac)  
