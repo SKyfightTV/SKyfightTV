@@ -8,7 +8,7 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 Skills: JAVA(API Bukkit, JDA, Applications et Android), python (Intelligence Artificielle), lua (FiveM) et C++ (Arduino)
 
 - 🔭 I’m currently working on DoigCraft. 
-- 🌱 I’m currently learning assembly language 
+- 🌱 I'm investigating the assembly language.
 - 📫 How to reach me: SkyfightTV#9535 
 - ⚡ Fun fact: I love to discover new things. 
 
