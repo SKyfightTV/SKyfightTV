@@ -5,7 +5,7 @@
 I am 17 years old and I have been developing for more than 2 years now. I already worked for several servers and for several people . Currently, I provide free minecraft plugins that you will find on my spigotmc.
 If you are a developer, I'm open to all proposals directly on the project via a pull request.
 
-Skills: JAVA(API Bukkit, JDA, Applications et Android), python (Intelligence Artificielle), lua (FiveM) et C++ (Arduino)
+Skills: JAVA(API Bukkit, JDA, Applications et Android), python (Intelligence Artificielle), lua (FiveM), JavaScript(ReactNative) et C/C++ (Arduino)
 
 - 🔭 I’m currently working on DoigCraft. 
 - 🌱 I'm learning the JavaScript to use ReactNative.
