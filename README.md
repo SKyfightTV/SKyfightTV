@@ -7,8 +7,8 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 
 Skills: JAVA(API Bukkit, JDA, Applications et Android), python (Intelligence Artificielle), lua (FiveM), JavaScript(ReactNative) et C/C++ (Arduino)
 
-- 🔭 I’m currently working on ... 
-- 🌱 I'm learning the JavaScript to use ReactNative.
+- 🔭 I’m currently working on AI. 
+- 🌱 I'm learning the DeepLearning with Python.
 - 📫 How to reach me: SkyfightTV#9535 
 - ⚡ Fun fact: I love to discover new things. 
 
