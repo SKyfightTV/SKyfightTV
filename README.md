@@ -6,41 +6,15 @@ I am 18 years old and I have been developing for more than 2 years now. I alread
 If you are a developer, I'm open to all proposals directly on the project via a pull request.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 313 Contributions in the Year 2022
- > 
-> 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 16 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    50 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.51% 
-🌆 Daytime    219 commits    ███████░░░░░░░░░░░░░░░░░░   28.52% 
-🌃 Evening    304 commits    ██████████░░░░░░░░░░░░░░░   39.58% 
-🌙 Night      195 commits    ██████░░░░░░░░░░░░░░░░░░░   25.39%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       124 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
-Tuesday      115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
-Wednesday    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
-Thursday     78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
-Friday       150 commits    █████░░░░░░░░░░░░░░░░░░░░   19.53% 
-Saturday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-Sunday       111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.45%
+🌞 Morning    50 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
+🌆 Daytime    220 commits    ███████░░░░░░░░░░░░░░░░░░   28.61% 
+🌃 Evening    304 commits    ██████████░░░░░░░░░░░░░░░   39.53% 
+🌙 Night      195 commits    ██████░░░░░░░░░░░░░░░░░░░   25.36%
 
 ```
 
@@ -48,8 +22,6 @@ Sunday       111 commits    ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
-
 💬 Programming Languages: 
 C                        0 secs              ███████████████████░░░░░░   77.26% 
 Java                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   22.74%
@@ -79,12 +51,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/SkyfightTV/SkyfightTV/master/charts/bar_graph.png) 
-
-
- Last Updated on 31/05/2022 13:41:14 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on nothing. 
