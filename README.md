@@ -5,7 +5,9 @@
 I am 18 years old and I have been developing for more than 2 years now. I already worked for several servers and for several people . Currently, I provide free minecraft plugins that you will find on my spigotmc.
 If you are a developer, I'm open to all proposals directly on the project via a pull request.
 
-Skills: JAVA(API Bukkit, JDA, Applications et Android), python (Intelligence Artificielle), lua (FiveM), JavaScript(ReactNative), C/C++ (Arduino et Unreal Engine) et C# (Unity)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on nothing. 
 - 🌱 I would like to learn C#.
