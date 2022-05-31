@@ -53,11 +53,6 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-- 🔭 I’m currently working on nothing. 
-- 🌱 I would like to learn C#.
-- 📫 How to reach me: SkyfightTV#9535.
-- ⚡ Fun fact: I love to discover new things. 
-
 ### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SKyfightTV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16952856)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCjzzQNjlBr-AZ5j1A8lMMKw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/u8yzVac)  
