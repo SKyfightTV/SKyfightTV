@@ -6,7 +6,7 @@ I am 18 years old and I have been developing for more than 2 years now. I alread
 If you are a developer, I'm open to all proposals directly on the project via a pull request.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%205%20mins-blue)
 
 **I'm a Night 🦉** 
 
