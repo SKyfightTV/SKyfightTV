@@ -24,3 +24,5 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_LANGUAGE: "True"
+
