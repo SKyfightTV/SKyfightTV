@@ -6,7 +6,7 @@ I am 18 years old and I have been developing for more than 2 years now. I alread
 If you are a developer, I'm open to all proposals directly on the project via a pull request.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-181-blue)
 
@@ -84,7 +84,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SkyfightTV/SkyfightTV/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/05/2022 12:27:53 UTC
+ Last Updated on 31/05/2022 12:31:32 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on nothing. 
