@@ -7,15 +7,15 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 
 ## 📈My statistics
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-811%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-810%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    58 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.16% 
-🌆 Daytime    233 commits    ███████░░░░░░░░░░░░░░░░░░   28.77% 
-🌃 Evening    318 commits    █████████░░░░░░░░░░░░░░░░   39.26% 
-🌙 Night      201 commits    ██████░░░░░░░░░░░░░░░░░░░   24.81%
+🌞 Morning    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
+🌆 Daytime    233 commits    ███████░░░░░░░░░░░░░░░░░░   28.66% 
+🌃 Evening    318 commits    █████████░░░░░░░░░░░░░░░░   39.11% 
+🌙 Night      201 commits    ██████░░░░░░░░░░░░░░░░░░░   24.72%
 
 ```
 
