@@ -24,19 +24,16 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 27 mins       █████████████████████████   99.79% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 hrs 28 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-P2DCamp                  2 hrs 26 mins       ████████████████████████░   98.86% 
-DoigCraftAPI             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
