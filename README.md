@@ -7,21 +7,6 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 
 ## 📈My statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**I Mostly Code in Java** 
-
-```text
-Java                     19 repos            ████████████░░░░░░░░░░░░░   50.0% 
-C                        8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 ### Connect with me:
