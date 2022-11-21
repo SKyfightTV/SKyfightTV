@@ -7,7 +7,7 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 
 ## 📈My statistics
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I Mostly Code in Java** 
 
