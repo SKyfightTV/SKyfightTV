@@ -9,13 +9,13 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-Total Time: 30 hrs 36 mins
+Total Time: 36 hrs 21 mins
 
-C             27 hrs 31 mins  ██████████████████████▒░░   89.93 %
-Java          2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-Other         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+C             34 hrs 46 mins  ████████████████████████░   95.68 %
+Makefile      55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Other         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
