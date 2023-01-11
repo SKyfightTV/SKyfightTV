@@ -2,7 +2,7 @@
 ## I'm happy to see you !
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKyfightTV&show_icons=true&theme=dark&count_private=true&)
 
-I am 18 years old and I have been developing for more than 2 years now. I already worked for several servers and for several people . Currently, I provide free minecraft plugins that you will find on my spigotmc.<br>
+I am 18 years old and I have been developing for more than 3 years now. I already worked for several servers and for several people . Currently, I provide free minecraft plugins that you will find on my spigotmc.<br>
 If you are a developer, I'm open to all proposals directly on the project via a pull request.
 
 ## 📈My statistics
