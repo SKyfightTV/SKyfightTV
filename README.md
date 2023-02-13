@@ -9,16 +9,16 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
-Total Time: 47 hrs 16 mins
+Total Time: 45 hrs 32 mins
 
-C#               16 hrs 6 mins   ████████▓░░░░░░░░░░░░░░░░   34.08 %
-XML              15 hrs 47 mins  ████████▒░░░░░░░░░░░░░░░░   33.42 %
-Java             9 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   19.86 %
-YAML             5 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-UnityYaml        34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-textmate         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+XML              17 hrs 35 mins  █████████▓░░░░░░░░░░░░░░░   38.62 %
+Java             17 hrs 21 mins  █████████▓░░░░░░░░░░░░░░░   38.13 %
+YAML             5 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+C#               5 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+C                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
