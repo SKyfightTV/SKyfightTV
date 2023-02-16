@@ -9,16 +9,16 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 13 February 2023
+From: 07 February 2023 - To: 14 February 2023
 
-Total Time: 62 hrs 53 mins
+Total Time: 62 hrs 50 mins
 
-Java             25 hrs 59 mins  ██████████▒░░░░░░░░░░░░░░   41.31 %
-XML              22 hrs 19 mins  █████████░░░░░░░░░░░░░░░░   35.48 %
-YAML             9 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-C                5 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Makefile         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Objective-C      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java             25 hrs 25 mins  ██████████░░░░░░░░░░░░░░░   40.48 %
+XML              16 hrs 39 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
+C                12 hrs 39 mins  █████░░░░░░░░░░░░░░░░░░░░   20.14 %
+YAML             7 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+Makefile         21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Objective-C      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
