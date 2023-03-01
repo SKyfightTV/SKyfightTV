@@ -9,16 +9,16 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 February 2023 - To: 26 February 2023
+From: 20 February 2023 - To: 27 February 2023
 
-Total Time: 30 hrs 24 mins
+Total Time: 22 hrs 56 mins
 
-C                20 hrs 12 mins  ████████████████▓░░░░░░░░   66.43 %
-textmate         2 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-ObjectiveC       2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-Bash             2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-Makefile         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Other            50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+C                13 hrs 48 mins  ███████████████░░░░░░░░░░   60.23 %
+textmate         2 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+ObjectiveC       2 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Bash             1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Makefile         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Other            35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
