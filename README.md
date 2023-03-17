@@ -9,14 +9,13 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 March 2023 - To: 14 March 2023
+From: 08 March 2023 - To: 15 March 2023
 
-Total Time: 28 hrs 37 mins
+Total Time: 38 hrs 22 mins
 
-C#               20 hrs 10 mins  █████████████████▓░░░░░░░   70.50 %
-Java             3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-C                2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Other            1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+C#               20 hrs 10 mins  █████████████░░░░░░░░░░░░   52.57 %
+C                16 hrs 34 mins  ██████████▓░░░░░░░░░░░░░░   43.19 %
+Other            1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
