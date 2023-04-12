@@ -9,13 +9,15 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2023 - To: 09 April 2023
+From: 03 April 2023 - To: 10 April 2023
 
-Total Time: 52 hrs 1 min
+Total Time: 49 hrs 34 mins
 
-C                36 hrs 12 mins  █████████████████▒░░░░░░░   69.59 %
-YAML             4 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-Other            4 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+C                40 hrs 57 mins  ████████████████████▓░░░░   82.62 %
+ca65 assembler   2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Makefile         1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+ObjectiveC       1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Other            1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
