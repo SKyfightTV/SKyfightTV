@@ -9,12 +9,12 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-Total Time: 46 hrs 48 mins
+Total Time: 52 hrs 54 mins
 
-C                35 hrs 19 mins  ███████████████████░░░░░░   75.44 %
-Other            5 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+C                39 hrs 46 mins  ██████████████████▓░░░░░░   75.18 %
+Other            6 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
 ```
 
 <!--END_SECTION:waka-->
