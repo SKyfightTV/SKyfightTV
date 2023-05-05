@@ -9,12 +9,13 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2023 - To: 02 May 2023
+From: 26 April 2023 - To: 03 May 2023
 
-Total Time: 13 hrs 10 mins
+Total Time: 24 hrs 11 mins
 
-C            11 hrs 46 mins  ██████████████████████▒░░   89.34 %
-Other        1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+C                19 hrs 19 mins  ████████████████████░░░░░   79.87 %
+ca65 assembler   2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Other            1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 ```
 
 <!--END_SECTION:waka-->
