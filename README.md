@@ -9,12 +9,12 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 May 2023 - To: 16 May 2023
+From: 10 May 2023 - To: 17 May 2023
 
-Total Time: 31 hrs 5 mins
+Total Time: 31 hrs 21 mins
 
-C                30 hrs 17 mins  ████████████████████████▒   97.42 %
-Makefile         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+C                30 hrs 32 mins  ████████████████████████▒   97.44 %
+Makefile         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 Bash             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Git Config       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Git              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
