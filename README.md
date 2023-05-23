@@ -9,15 +9,15 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 May 2023 - To: 20 May 2023
+From: 14 May 2023 - To: 21 May 2023
 
-Total Time: 11 hrs 22 mins
+Total Time: 3 hrs 17 mins
 
-C                10 hrs 26 mins  ███████████████████████░░   91.79 %
-Makefile         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-ca65 assembler   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Bash             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C                2 hrs 7 mins    ████████████████░░░░░░░░░   64.62 %
+Makefile         1 hr 3 mins     ████████░░░░░░░░░░░░░░░░░   32.17 %
+ca65 assembler   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
