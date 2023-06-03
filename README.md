@@ -8,8 +8,8 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 ## 📈My statistics
 <!--START_SECTION:waka-->
 
-```text
-From: 24 May 2023 - To: 31 May 2023
+```txt
+From: 25 May 2023 - To: 01 June 2023
 
 Total Time: 4 hrs 58 mins
 
