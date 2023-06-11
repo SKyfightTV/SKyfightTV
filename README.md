@@ -9,14 +9,13 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 08 June 2023
+From: 02 June 2023 - To: 09 June 2023
 
-Total Time: 4 hrs 30 mins
+Total Time: 45 mins
 
-XML              4 hrs 4 mins    ██████████████████████▓░░   90.34 %
-Java             25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+XML              24 mins         █████████████▒░░░░░░░░░░░   53.10 %
+Java             20 mins         ███████████▒░░░░░░░░░░░░░   45.31 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
