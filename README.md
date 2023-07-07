@@ -9,14 +9,14 @@ If you are a developer, I'm open to all proposals directly on the project via a 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2023 - To: 04 July 2023
+From: 28 June 2023 - To: 05 July 2023
 
-Total Time: 3 hrs 50 mins
+Total Time: 7 hrs 47 mins
 
-TypeScript       3 hrs 16 mins   █████████████████████▒░░░   85.16 %
-GitIgnore file   28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-JSON             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+TypeScript       6 hrs 52 mins   ██████████████████████░░░   88.24 %
+GitIgnore file   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+JSON             26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
